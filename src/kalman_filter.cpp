@@ -3,7 +3,6 @@
 #include <math.h>
 
 #include "kalman_filter.h"
-#include "exceptions.h"
 #include "tools.h"
 
 using Eigen::MatrixXd;
